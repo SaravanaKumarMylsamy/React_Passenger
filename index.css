@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://c8.alamy.com/comp/MWN7EE/blurred-defocused-image-of-passengers-check-in-at-the-check-in-counter-at-the-international-airport-blurry-background-of-people-waiting-in-line-MWN7EE.jpg);
+    margin: auto;
+    text-align: center;
+    
+}
+.App{
+    margin: auto;
+    margin-top: 200px;
+    background:linear-gradient(45deg,rgb(7, 184, 244),rgb(7, 231, 7));
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 40px;
+
+}
+.counter{
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: x-large;
+}
+h2{
+    margin-top: 30px;
+    font-weight: 500px;
+    color: aliceblue;
+    font-size: xx-large;
+}
